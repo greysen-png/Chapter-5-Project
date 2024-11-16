@@ -1,7 +1,7 @@
 // Greysen Roy-Pascoe
 // 11/16/2024
-// Main branch for all Chapter 5 projects
-// This is the master branch
+// From master branch
+// This branch is for the first project
 
 #include <iostream>
 
