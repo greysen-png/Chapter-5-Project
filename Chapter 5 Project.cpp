@@ -4,6 +4,7 @@
 // This is the 2nd project of Chp. 5 - Student Lineup
 
 #include <iostream>
+#include <fstream>
 
 using namespace std;
 
