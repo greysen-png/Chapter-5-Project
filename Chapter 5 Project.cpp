@@ -35,6 +35,7 @@ int main()
     }
 
     int population_size = organism_count;
+    cout << left << setw(8) << "Days" << "Population Size\n" << "-------------------------------------------\n";
     for (int counter = 1; counter <= days; ++counter) { //turned population increase to decimal from percent
         population_size = population_size + population_size * (population_increase_as_a_percentage / 100);
         
