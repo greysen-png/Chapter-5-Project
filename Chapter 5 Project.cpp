@@ -1,7 +1,7 @@
 // Greysen Roy-Pascoe
-// 11/16/2024
-// Main branch for all Chapter 5 projects
-// This is the master branch
+// 11/17/2024
+// From Main branch
+// This is the 2nd project of Chp. 5 - Student Lineup
 
 #include <iostream>
 
