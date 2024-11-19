@@ -11,7 +11,7 @@ using namespace std;
 int main()
 {
     ifstream input_object;
-    input_object.open("C:\LineUp.txt");
+    input_object.open("D:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\LineUp.txt");
 
     if (!input_object) {
         cout << "Something went wrong with opening the file\n"; // Checking if the file opened correctly
